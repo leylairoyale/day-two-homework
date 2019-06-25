@@ -1,0 +1,23 @@
+h3 {
+    color: red;
+}
+.helloworld {
+    font-family: sans-serif;
+}
+#huge {
+    font-size: 35px;
+}
+h5 {
+    font-family: sans-serif;
+}
+h1 {
+    font-size: 60px;
+}
+#comic {
+    font-family: Comic Sans MS;
+    color: cyan;
+    background-color: black;
+    margin-top: -2px;
+    width: 50%;
+
+}
